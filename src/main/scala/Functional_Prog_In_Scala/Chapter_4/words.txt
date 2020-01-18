@@ -1,0 +1,3 @@
+hello spark is good to know
+spark is scala test word count
+spark good

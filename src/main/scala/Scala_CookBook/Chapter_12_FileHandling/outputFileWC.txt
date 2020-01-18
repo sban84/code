@@ -1,0 +1,11 @@
+word : is and its Count : 2 
+word : programming and its Count : 1 
+word : functional and its Count : 1 
+word : scala and its Count : 4 
+word : OOP and its Count : 1 
+word : a and its Count : 1 
+word : program and its Count : 2 
+word : also and its Count : 1 
+word : this and its Count : 1 
+word : hello and its Count : 1 
+word : language and its Count : 1 

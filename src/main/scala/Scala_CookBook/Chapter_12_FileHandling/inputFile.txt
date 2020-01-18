@@ -1,0 +1,3 @@
+hello scala program scala
+scala is a functional programming program language
+this scala is OOP also
